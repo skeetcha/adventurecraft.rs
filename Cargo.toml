@@ -1,0 +1,10 @@
+[package]
+name = "adventurecraft"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+colored = "2.1.0"
+rand = "0.8.5"
+regex = "1.10.6"
+text_io = "0.1.12"
